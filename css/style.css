@@ -1,0 +1,19 @@
+.slide-bg-color{
+    background-color: #f1d0cc;
+}
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.watch-bg{
+    background-color: orange;
+}
+.bag-bg{
+    background-color: orchid;
+}
+.shoes-bg{
+    background-color: blue;
+}
